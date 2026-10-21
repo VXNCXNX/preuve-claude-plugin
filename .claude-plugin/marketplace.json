@@ -1,0 +1,18 @@
+{
+  "name": "preuve",
+  "owner": {
+    "name": "Preuve AI",
+    "email": "support@preuve.ai",
+    "url": "https://preuve.ai"
+  },
+  "description": "The Preuve AI plugin for Claude Code: startup idea validation over the Preuve MCP server.",
+  "plugins": [
+    {
+      "name": "preuve",
+      "source": "./",
+      "description": "Validate startup ideas with source-linked market research, competitors and risks, without leaving Claude Code.",
+      "category": "productivity",
+      "tags": ["startup", "idea-validation", "market-research", "mcp"]
+    }
+  ]
+}

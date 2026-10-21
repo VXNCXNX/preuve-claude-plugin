@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "preuve": {
+      "type": "http",
+      "url": "https://mcp.preuve.ai/mcp"
+    }
+  }
+}

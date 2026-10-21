@@ -1,0 +1,27 @@
+{
+  "name": "preuve",
+  "displayName": "Preuve AI",
+  "version": "1.0.0",
+  "description": "Validate startup ideas with source-linked market research, competitors and risks, without leaving Claude Code.",
+  "author": {
+    "name": "Preuve AI",
+    "email": "support@preuve.ai",
+    "url": "https://preuve.ai"
+  },
+  "homepage": "https://preuve.ai/mcp",
+  "repository": "https://github.com/VXNCXNX/preuve-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "preuve",
+    "startup",
+    "idea-validation",
+    "market-research",
+    "competitor-analysis",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.preuve.ai/mcp-server",
+  "supportUrl": "https://preuve.ai/support",
+  "privacyPolicyUrl": "https://preuve.ai/privacy",
+  "termsOfServiceUrl": "https://preuve.ai/terms"
+}
